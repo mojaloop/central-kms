@@ -1,4 +1,12 @@
-# central-kms
+# [DEPRECATED] central-kms
+
+## Deprecation Notice
+
+Theis repo was deprecated as of November 2020. It is no longer maintained, and is no longer referenced by any releases of Mojaloop.
+
+For a list of active Mojaloop repos, please refer to [Repo Details](https://docs.mojaloop.io/documentation/repositories/) section of the Mojaloop documentation.
+
+## Overview
 
 The central key mananage service facilitates forensic logging functionality for central services
 
